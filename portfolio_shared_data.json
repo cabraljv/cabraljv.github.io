@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com/jvcabralz/",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/cabraljv/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "avatar.png"
@@ -44,8 +49,8 @@
           "level": "70"
         },
         {
-          "name": "Material UI",
-          "class": "devicon-materialui-plain",
+          "name": "Docker",
+          "class": "devicon-docker-plain",
           "level": "75" 
         },
         {
