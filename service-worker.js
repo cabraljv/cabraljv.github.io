@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cabraljv.dev/precache-manifest.56eee5c02399d0f4f33dde4a5eb66469.js"
+  "/cabraljv.dev/precache-manifest.b70a4be0eaef4b13acf68c3da5c82172.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cabraljv.dev/static/css/main.40f0e6cc.chunk.css",
-    "main.js": "/cabraljv.dev/static/js/main.8c0fe6ef.chunk.js",
-    "main.js.map": "/cabraljv.dev/static/js/main.8c0fe6ef.chunk.js.map",
+    "main.css": "/cabraljv.dev/static/css/main.f4eee7c5.chunk.css",
+    "main.js": "/cabraljv.dev/static/js/main.c0b5abf7.chunk.js",
+    "main.js.map": "/cabraljv.dev/static/js/main.c0b5abf7.chunk.js.map",
     "runtime-main.js": "/cabraljv.dev/static/js/runtime-main.cd51c9c5.js",
     "runtime-main.js.map": "/cabraljv.dev/static/js/runtime-main.cd51c9c5.js.map",
-    "static/css/2.d64471e2.chunk.css": "/cabraljv.dev/static/css/2.d64471e2.chunk.css",
-    "static/js/2.a9742a14.chunk.js": "/cabraljv.dev/static/js/2.a9742a14.chunk.js",
-    "static/js/2.a9742a14.chunk.js.map": "/cabraljv.dev/static/js/2.a9742a14.chunk.js.map",
+    "static/css/2.9497e657.chunk.css": "/cabraljv.dev/static/css/2.9497e657.chunk.css",
+    "static/js/2.da165108.chunk.js": "/cabraljv.dev/static/js/2.da165108.chunk.js",
+    "static/js/2.da165108.chunk.js.map": "/cabraljv.dev/static/js/2.da165108.chunk.js.map",
     "index.html": "/cabraljv.dev/index.html",
-    "precache-manifest.56eee5c02399d0f4f33dde4a5eb66469.js": "/cabraljv.dev/precache-manifest.56eee5c02399d0f4f33dde4a5eb66469.js",
+    "precache-manifest.b70a4be0eaef4b13acf68c3da5c82172.js": "/cabraljv.dev/precache-manifest.b70a4be0eaef4b13acf68c3da5c82172.js",
     "service-worker.js": "/cabraljv.dev/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/cabraljv.dev/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.40f0e6cc.chunk.css.map": "/cabraljv.dev/static/css/main.40f0e6cc.chunk.css.map",
-    "static/js/2.a9742a14.chunk.js.LICENSE.txt": "/cabraljv.dev/static/js/2.a9742a14.chunk.js.LICENSE.txt"
+    "static/css/2.9497e657.chunk.css.map": "/cabraljv.dev/static/css/2.9497e657.chunk.css.map",
+    "static/css/main.f4eee7c5.chunk.css.map": "/cabraljv.dev/static/css/main.f4eee7c5.chunk.css.map",
+    "static/js/2.da165108.chunk.js.LICENSE.txt": "/cabraljv.dev/static/js/2.da165108.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd51c9c5.js",
-    "static/css/2.d64471e2.chunk.css",
-    "static/js/2.a9742a14.chunk.js",
-    "static/css/main.40f0e6cc.chunk.css",
-    "static/js/main.8c0fe6ef.chunk.js"
+    "static/css/2.9497e657.chunk.css",
+    "static/js/2.da165108.chunk.js",
+    "static/css/main.f4eee7c5.chunk.css",
+    "static/js/main.c0b5abf7.chunk.js"
   ]
 }
