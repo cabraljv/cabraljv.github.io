@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "João Victor Cabral",
+      "titles": [ "FullStack Developer", "Devops"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/cabraljv",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/jvcabralz/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/cabraljv/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "avatar.png"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "ReactJS",
+          "class": "devicon-react-plain",
+          "level": "95"
+        },
+        {
+          "name": "VueJS",
+          "class": "devicon-vuejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain",
+          "level": "70"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "75" 
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-plain",
+          "level": "85"
+        },
+        {
+          "name": "Elixir",
+          "class": "devicon-elixir-plain",
+          "level": "65"
+        }
+      ]
+    }
+  }
